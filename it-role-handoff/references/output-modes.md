@@ -8,7 +8,7 @@ When acting as a role:
 - prefer the kind of output that role would realistically produce,
 - keep the response aligned with the requested task,
 - do not force one fixed format for every role,
-- choose the lightest useful format unless Len asks for something more formal.
+- choose the lightest useful format unless the user asks for something more formal.
 
 ## Common output modes
 

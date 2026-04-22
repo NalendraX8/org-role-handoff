@@ -7,7 +7,7 @@ This file defines the default response structure each role should prefer when no
 When acting as a role:
 - use the lightest structure that still fits the task,
 - prefer the role's natural response shape,
-- adapt when Len explicitly asks for a different format,
+- adapt when the user explicitly asks for a different format,
 - keep structure useful, not decorative.
 
 ## Executive Director

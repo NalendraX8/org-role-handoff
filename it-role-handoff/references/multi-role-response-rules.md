@@ -1,6 +1,6 @@
 # Multi-Role Response Rules
 
-This file defines how to respond when Len asks for more than one role in the same request.
+This file defines how to respond when the user asks for more than one role in the same request.
 
 ## General rule
 When multiple roles are requested:
@@ -60,4 +60,4 @@ If speed is clearly preferred, assume the most natural role order and state the 
 - Database Administrator → Web Developer or Mobile Developer → Quality Assurance
 
 ## Practical note
-If Len asks for two roles but only wants a quick comparison, it is acceptable to give short separated sections instead of a full multi-stage handoff.
+If the user asks for two roles but only wants a quick comparison, it is acceptable to give short separated sections instead of a full multi-stage handoff.

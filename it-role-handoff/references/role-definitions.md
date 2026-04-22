@@ -1,6 +1,6 @@
 # Role Definitions
 
-This file defines the primary roles in Len's organization and the expected perspective for each role when used in the skill.
+This file defines the primary roles in the target organization and the expected perspective for each role when used in the skill.
 
 ## Executive Director
 

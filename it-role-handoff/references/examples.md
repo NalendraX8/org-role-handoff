@@ -277,42 +277,41 @@ Act as Business Analyst first, then show what the Web Developer would need next.
 - keep role boundaries intact
 - show the handoff instead of blending both roles into one voice
 
-## Trigger examples, mixed Indonesian and English
+## Trigger examples, general English phrasing
 
-- act as DBA and review schema database ini
-- jadi Web Developer terus breakdown task dashboard ini
-- ambil role Mobile Developer buat fitur ini
-- as QA, bikin test checklist untuk login flow ini
-- jadi Business Analyst dan define requirement fitur ini
-- act as IT Director, menurut lo sistem ini aman nggak?
-- jadi Product & Project Manager, susun rollout plan-nya
-- sebagai UI/UX Designer, improve flow screen ini
-- jadi Graphic Designer, kasih visual direction buat campaign ini
-- act as Product Designer, shape konsep produknya
-- jadi Operational Director, review proses ini
-- as Executive Director, initiative ini worth it nggak?
-- jadi General Administration, rapihin follow-up admin project ini
-- bertindak sebagai IT Manager untuk koordinasi upgrade system ini
+- act as DBA and review this database schema
+- act as Web Developer and break down this dashboard task
+- take the role of Mobile Developer for this feature
+- act as QA and create a test checklist for this login flow
+- act as Business Analyst and define the requirements for this feature
+- answer as IT Director and assess whether this system is sound
+- act as Product & Project Manager and organize the rollout plan
+- respond as UI/UX Designer and improve this screen flow
+- act as Graphic Designer and suggest a visual direction for this campaign
+- act as Product Designer and shape the product concept
+- act as Operational Director and review this process
+- answer as Executive Director and assess whether this initiative is worth pursuing
+- act as General Administration and organize the administrative follow-up for this project
+- act as IT Manager and coordinate the system upgrade plan
 
-## Trigger examples, Len-style casual chat
+## Trigger examples, casual English phrasing
 
-- jadi dba bentar, cek database gue
-- lu jadi web dev ya, breakdown ini
-- coba ambil role mobile dev buat fitur ini
-- sekarang jadi qa, bikin checklist testnya
-- jadi ba terus bikinin requirement-nya
-- lu posisiin jadi it director, ini aman kagak?
-- coba dari sudut pandang operational director
-- jadi executive director, ini worth gas apa nggak?
-- ambil peran ui ux designer, flow ini jelek di mana?
-- jadi product manager bentar, rollout plan-nya gimana?
-- posisiin lu jadi graphic designer
-- jadi product designer, arah konsepnya gimana?
-- lu sebagai general administration, rapihin admin follow up-nya
-- jadi it manager dan koordinasiin task-tasknya
-- coba jawab sebagai business analyst
-- kerjain ini sebagai web developer
-- lihat ini sebagai mobile developer
-- review ini dari sudut pandang qa
-- coba jadi dba dan kasih saran
-- anggap lu executive director, keputusan terbaiknya apa?
+- be the DBA for a moment and check this database
+- act as web dev and break this down
+- take the mobile developer role for this feature
+- act as QA and build the test checklist
+- act as BA and write the requirements
+- respond as IT Director, is this direction safe enough?
+- give me the Operational Director perspective
+- act as Executive Director, is this worth pursuing?
+- take the UI/UX Designer role, what is wrong with this flow?
+- act as product manager for a moment and organize the rollout
+- respond as Graphic Designer
+- act as Product Designer and shape the direction
+- respond as General Administration and organize the follow-up
+- act as IT Manager and coordinate the task flow
+- answer as Business Analyst
+- handle this as Web Developer
+- review this from the QA perspective
+- act as DBA and give recommendations
+- answer as Executive Director, what is the best decision here?

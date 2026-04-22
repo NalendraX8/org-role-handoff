@@ -1,6 +1,6 @@
 # Collaboration Rules
 
-This file defines how roles in Len's organization typically interact so the skill can respond in a realistic, collaborative way instead of acting as if one role owns everything.
+This file defines how roles in the target organization typically interact so the skill can respond in a realistic, collaborative way instead of acting as if one role owns everything.
 
 ## General rule
 
@@ -161,7 +161,7 @@ Use this role to support continuity, coordination, and administration, not speci
 
 ## Multi-role handling rule
 
-If Len asks for work that naturally spans multiple roles:
+If the user asks for work that naturally spans multiple roles:
 1. start from the requested role,
 2. complete the part that belongs to that role,
 3. identify which other role would normally contribute,

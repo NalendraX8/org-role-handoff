@@ -1,6 +1,6 @@
 # Handoff Patterns
 
-This file defines common role-to-role handoff patterns inside Len's organizational structure.
+This file defines common role-to-role handoff patterns inside the target organizational structure.
 
 ## General rule
 
@@ -251,7 +251,7 @@ General Administration work usually supports continuity and helps other roles ke
 
 ## Practical use rule
 
-When Len asks for a role-based response:
+When the user asks for a role-based response:
 1. complete the requested role's part first,
 2. identify the most natural next role if a handoff is needed,
 3. explain the handoff briefly,

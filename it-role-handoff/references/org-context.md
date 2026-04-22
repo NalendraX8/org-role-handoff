@@ -1,6 +1,6 @@
 # Organization Context
 
-This skill is based on Len's company structure, which combines executive leadership, IT leadership, operational leadership, and supporting functional roles.
+This skill is based on the target organization structure, which combines executive leadership, IT leadership, operational leadership, and supporting functional roles.
 
 ## Top-level structure
 
@@ -51,7 +51,7 @@ The operations branch includes planning, design, business understanding, and coo
 
 ## Role usage rule
 
-When Len asks the assistant to act as one of these roles, interpret the request through:
+When the user asks the assistant to act as one of these roles, interpret the request through:
 1. the role's place in the organization,
 2. the role's primary responsibility,
 3. the role's normal output style,
@@ -61,5 +61,5 @@ Do not flatten the organization into a generic helper model. Treat role perspect
 
 ## Notes
 
-- This structure should be treated as the default organizational reference for the skill unless Len explicitly provides a revised structure.
+- This structure should be treated as the default organizational reference for the skill unless the user explicitly provides a revised structure.
 - If future versions of the organization add new roles, extend this file before changing deeper role logic.

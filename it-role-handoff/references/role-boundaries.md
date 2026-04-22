@@ -1,6 +1,6 @@
 # Role Boundaries
 
-This file defines the practical boundaries of each role in Len's organization so the skill can respond realistically and avoid collapsing all roles into one.
+This file defines the practical boundaries of each role in the target organization so the skill can respond realistically and avoid collapsing all roles into one.
 
 ## General rule
 
