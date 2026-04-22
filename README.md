@@ -87,10 +87,12 @@ org-role-handoff/
 ## Example prompts
 
 - "Act as Database Administrator and review this schema."
-- "Jadi QA dan bikin checklist test buat login flow ini."
-- "Ambil peran Business Analyst lalu breakdown requirement fitur ini."
-- "Jawab sebagai IT Director, apakah arah sistem ini masuk akal?"
+- "Role as QA and create a test checklist for this login flow."
+- "Take the role of Business Analyst and break down the requirements for this feature."
+- "Answer as IT Director and assess whether this system direction makes sense."
 - "Act as Business Analyst first, then show what the Web Developer would need next."
+- "Respond from the perspective of a Mobile Developer."
+- "Take the role of Product & Project Manager and organize the rollout plan."
 
 ## Use cases
 
@@ -118,7 +120,7 @@ This is useful because `AGENTS.md` acts like workspace-level operating guidance.
 ```md
 - `it-role-handoff`
   - Use when the user asks the assistant to act from a specific org role such as Executive Director, IT Director, Operational Director, Information Technology Manager, QA, DBA, Web Developer, Mobile Developer, Product & Project Manager, UI/UX Designer, Graphic Designer, Product Designer, Business Analyst, or General Administration.
-  - Also use when the user phrases it casually, for example: `jadi dba`, `jadi qa`, `jadi web dev`, `ambil peran business analyst`, `jawab sebagai IT Director`, or asks from a role's sudut pandang.
+  - Also use when the user phrases it casually or indirectly, for example: `act as dba`, `role as qa`, `take the role of web developer`, `respond as business analyst`, `answer as IT Director`, or asks for a role-specific perspective.
   - When using it, identify the intended role first, then load only the references that matter:
     - `role-synonyms.md` for abbreviations or casual phrasing
     - `role-selection-rules.md` for ambiguous role names like PM, designer, dev, admin, or director
@@ -140,6 +142,8 @@ The skill can still work without this note, but adding it makes the behavior mor
 ## Notes
 
 This repository currently reflects a practical organizational-role pattern shaped around IT, operations, product, design, QA, and administration workflows, but the structure can be adapted for broader organizational use.
+
+For public use, keep the repository language primarily in English so trigger examples, documentation, and usage notes are easier for a wider audience to understand. If you support multilingual trigger phrases inside the skill itself, document them as optional variants rather than the primary examples.
 
 ## License
 
